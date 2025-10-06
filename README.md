@@ -13,3 +13,8 @@ funcion Fatecsorocaba{
 }
 ```
 Curso da semana de tecnologia da Fatec Sorocaba.
+## Comandos
+- git clone:
+- git status:
+- git add:
+- git commit -m " Este commit altera o readme.md"
