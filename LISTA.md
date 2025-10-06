@@ -1,18 +1,3 @@
-# Mini-Curso-Git
-## Teste
-### Teste 2
-#### Teste 3
--item 1
--item 2
--item 3
-
-```
-funcion Fatecsorocaba{
-    const git = 1;
-
-}
-```
-Curso da semana de tecnologia da Fatec Sorocaba.
 ## Comandos
 - git clone:" você pega o link http no github, copia e cola no git para literalmente clonar o seu repositório"
 - git status:"checa como esta o arquivo, ou seja, se foi alterado ou não"
@@ -24,4 +9,3 @@ Curso da semana de tecnologia da Fatec Sorocaba.
  - git  branch:"mostra as branchs que existem e em qual branch vc esta"
  - git branch feature/"o nome que vc quer dar a nova branch": "Cria um branch ramificada atravez da main"
  - git checkout "e o nome da branch na frente": "vc navega pelas branchs"
- 
